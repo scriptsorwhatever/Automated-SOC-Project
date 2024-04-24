@@ -30,6 +30,6 @@ Connections between these elements are depicted with arrows to show the directio
 
 - **Final Testing of Workflow:** The entire automated workflow, linking Shuffle, Wazuh, and The Hive, was thoroughly tested to ensure it responds correctly to simulated security incidents, validating the efficacy of our SOC setup.
 
-- ![workflow (2)](https://github.com/scriptsorwhatever/SOC/assets/130718809/0cd1c754-39da-417c-8fd1-94df628ef910)
+![workflow (2)](https://github.com/scriptsorwhatever/SOC/assets/130718809/0cd1c754-39da-417c-8fd1-94df628ef910)
 
 This comprehensive approach not only enhances our security posture but also streamlines the process of monitoring and responding to potential threats, making our SOC environment robust and efficient.
