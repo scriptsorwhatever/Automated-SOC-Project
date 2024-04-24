@@ -4,9 +4,11 @@ This project focuses on designing a Security Operations Center (SOC) lab environ
 ## Designing a SOC Lab Environment Using Draw.io
 I crafted a logical diagram using Draw.io to visually represent the data flow and essential components of our SOC lab environment. This diagram includes fundamental icons representing PCs, routers, and internet connections, which outline our network setup. Key components such as the Windows 10 client with Wazuh agent, Wazuh manager, The Hive, and Shuffle are clearly labeled to elucidate their roles and functionalities.
 
+Connections between these elements are depicted with arrows to show the direction of data movement, highlighting different types of interactions such as event sending, alert forwarding, and response actions. The diagram is color-coded and employs various line types to distinguish between these interactions, adding an extra layer of clarity to our SOC setup.
+
 ![diagram](https://github.com/scriptsorwhatever/SOC/assets/130718809/927d6cd7-69ab-451e-a972-9c3bf1f000d0)
 
-Connections between these elements are depicted with arrows to show the direction of data movement, highlighting different types of interactions such as event sending, alert forwarding, and response actions. The diagram is color-coded and employs various line types to distinguish between these interactions, adding an extra layer of clarity to our SOC setup.
+![workflow](https://github.com/scriptsorwhatever/SOC/assets/130718809/8dd01ae6-bab9-412e-a22b-4ac4e8803a77)
 
 ## Setting Up Key Components
 - **Virtual Machine Creation and Configuration on VirtualBox:** Utilizing VirtualBox, I configured a new Windows 10 virtual machine, ensuring optimal settings for memory, processor, and storage were selected. The installation process was meticulously followed using a Windows 10 ISO image.
