@@ -8,8 +8,6 @@ Connections between these elements are depicted with arrows to show the directio
 
 ![diagram](https://github.com/scriptsorwhatever/SOC/assets/130718809/927d6cd7-69ab-451e-a972-9c3bf1f000d0)
 
-![workflow (2)](https://github.com/scriptsorwhatever/SOC/assets/130718809/0cd1c754-39da-417c-8fd1-94df628ef910)
-
 ## Setting Up Key Components
 - **Virtual Machine Creation and Configuration on VirtualBox:** Utilizing VirtualBox, I configured a new Windows 10 virtual machine, ensuring optimal settings for memory, processor, and storage were selected. The installation process was meticulously followed using a Windows 10 ISO image.
 
@@ -31,5 +29,7 @@ Connections between these elements are depicted with arrows to show the directio
 - **Email Notification System:** I integrated an email notification system within the SOC workflow to automatically alert our security analysts when threats are detected. This system uses conditional logic to generate emails with detailed information about the security threats, enabling timely and informed responses.
 
 - **Final Testing of Workflow:** The entire automated workflow, linking Shuffle, Wazuh, and The Hive, was thoroughly tested to ensure it responds correctly to simulated security incidents, validating the efficacy of our SOC setup.
+
+- ![workflow (2)](https://github.com/scriptsorwhatever/SOC/assets/130718809/0cd1c754-39da-417c-8fd1-94df628ef910)
 
 This comprehensive approach not only enhances our security posture but also streamlines the process of monitoring and responding to potential threats, making our SOC environment robust and efficient.
