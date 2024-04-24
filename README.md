@@ -8,7 +8,7 @@ Connections between these elements are depicted with arrows to show the directio
 
 ![diagram](https://github.com/scriptsorwhatever/SOC/assets/130718809/927d6cd7-69ab-451e-a972-9c3bf1f000d0)
 
-![workflow (1)](https://github.com/scriptsorwhatever/SOC/assets/130718809/910d188e-5286-4461-89fa-3ac78f7b42cb)
+![workflow (2)](https://github.com/scriptsorwhatever/SOC/assets/130718809/0cd1c754-39da-417c-8fd1-94df628ef910)
 
 ## Setting Up Key Components
 - **Virtual Machine Creation and Configuration on VirtualBox:** Utilizing VirtualBox, I configured a new Windows 10 virtual machine, ensuring optimal settings for memory, processor, and storage were selected. The installation process was meticulously followed using a Windows 10 ISO image.
