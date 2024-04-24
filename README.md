@@ -1,4 +1,4 @@
-#SOC Automation Project
+## SOC Automation Project
 This project focuses on designing a Security Operations Center (SOC) lab environment. It includes creating a detailed diagram with Draw.io to visualize the network setup and data flow, involving components like PCs, routers, and key security elements such as the Windows 10 client with Wazuh agent, Wazuh manager, The Hive, and Shuffle, all hosted on servers configured on Digital Ocean. Key tasks include setting up and configuring virtual machines on VirtualBox, installing and configuring security monitoring tools like Sysmon and Wazuh, and integrating an automated workflow with SOAR platforms for efficient threat detection and response. This setup enhances security monitoring and incident response capabilities within a controlled lab environment hosted on cloud servers.
 
 ## Designing a SOC Lab Environment Using Draw.io
